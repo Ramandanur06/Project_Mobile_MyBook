@@ -3,18 +3,85 @@
 
 ![Logo](https://github.com/user-attachments/assets/25484795-48b5-48ac-a078-7cba80ab23ef)
 
-Keterangan:
-Tampilan ke 1:Di tampilan ini hanya menampilkan logo yang otomatis langsung ke tampilan ke dua yaitu login durasi tampilan 
-              hanya sekitan 1 sampai 2 detik
-Tampilan ke 2:Tampilan ini yaitu tampilan login, user harus memasukan akun terlebih dahulu jika belum punya bisa register ke 
-              tampilan 3
-Tampilan 3: Tampilan 3 adalah tampilan register untuk user yang belum punya kun mendaftar disini
-Tampilan 4: Jika sudah login dari tampilan ke 2 langsung beralih ke tampilan ke 4 yaitu detail buku, disitu terdapat banyak akses ke tampilan mana saja dan terdapat beberapa list buku yang ingin dibaca
-Tampilam 5: Di tampilan ini untuk menambahkan buku jika sudah menambahkan buku akan otomatis tersimpan di daftar buku yang di tampilan 4
-Tampilan 6:Di tampilan ini yaitu detail buku disini terdapat detail penulis dan judul buku tersebut dan juga bjika buku sudah tidak dibaca bisa di hapus dan juga ada icon yang menuju ke tampilan 9 yaitu isi bukunya 
-Tampilan 7: Ditampilan ini terdapat Profil user yang di akses melalui tampilan ke 4 yg ada icon profile, disini terdapat detail profile pengguna dari nama,email,dan juga buku yang telah pengguna baca bisa juga pengguna mengedit profilenya dari yang mengganti foto profile mengganti nama dan juga mengganti email yang ada di tampilan 8
-Tampilan 8: Nah di tampilan ini tempat pengguna mengedit profilenya bisa mengganti poto profile ganti nama pengguna dan mengganti email.
-Tampilan 9: Nah Tampilan in i terdapat isi buku yang diakses melalui detail buku pada tampilan 6. disini tempatnya isi dari buku tersebut
+# 📚 Aplikasi Buku Pintar
+
+Ini adalah dokumentasi singkat tentang alur tampilan (UI Flow) aplikasi ini. Let's go!
+
+---
+
+## 🖼️ Tampilan 1: Splash Screen
+- Menampilkan **logo aplikasi**.
+- Otomatis **redirect** ke tampilan login dalam **1–2 detik**.
+- Cuma lewat doang, kayak mantan.
+
+---
+
+## 🔐 Tampilan 2: Login
+- User **wajib login** dulu.
+- Kalau **belum punya akun**, cus ke **Tampilan 3 (Register)** lewat tombol yang disediakan.
+- Tanpa akun, ya mana bisa masuk bos.
+
+---
+
+## 📝 Tampilan 3: Register
+- Tempat buat user **yang belum punya akun**.
+- Isi data dengan benar, ya, jangan ngadi-ngadi.
+
+---
+
+## 📖 Tampilan 4: Daftar Buku
+- Setelah login sukses, langsung masuk ke sini.
+- Ada **list buku** yang siap dibaca.
+- Ada akses ke fitur lain juga lewat menu yang ada.
+
+---
+
+## ➕ Tampilan 5: Tambah Buku
+- Di sini user bisa **nambahin buku baru**.
+- Setelah disimpan, buku otomatis muncul di **daftar buku** di Tampilan 4.
+
+---
+
+## 📚 Tampilan 6: Detail Buku
+- Menampilkan **judul** dan **penulis** buku.
+- Ada opsi:
+  - **Hapus** buku kalau udah kelar baca.
+  - **Buka isi buku** (menuju ke Tampilan 9) lewat icon yang tersedia.
+
+---
+
+## 👤 Tampilan 7: Profil User
+- Bisa diakses lewat icon profile dari Tampilan 4.
+- Menampilkan:
+  - Nama
+  - Email
+  - Daftar buku yang sudah dibaca
+- Ada opsi **Edit Profil** buat ganti data user.
+
+---
+
+## ✏️ Tampilan 8: Edit Profil
+- Tempat buat:
+  - Ganti **foto profil**.
+  - Edit **nama pengguna**.
+  - Update **email**.
+- Jangan typo ya, malu-maluin.
+
+---
+
+## 📄 Tampilan 9: Isi Buku
+- Diakses lewat **Detail Buku** (Tampilan 6).
+- Menampilkan **isi lengkap** dari buku tersebut.
+
+---
+
+## 🚀 Notes
+- Semuanya udah disetting biar flow-nya **cepet, mulus, dan simple**.
+- Fokus: **baca buku** + **atur akun** = hidup makin pinter 🔥.
+
+---
+
+
 Jika Kurang Jelas Ada di File Pdf
 [Story Board MyBook.pdf](https://github.com/user-attachments/files/19923068/Story.Board.MyBook.pdf)
 
