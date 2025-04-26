@@ -3,7 +3,7 @@
 
 ![Logo](https://github.com/user-attachments/assets/25484795-48b5-48ac-a078-7cba80ab23ef)
 
-## 📚 Aplikasi Buku Pintar
+## 📚 Aplikasi MyBook
 
 Ini adalah dokumentasi singkat tentang alur tampilan (UI Flow) aplikasi ini. 
 
