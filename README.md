@@ -3,23 +3,22 @@
 
 ![Logo](https://github.com/user-attachments/assets/25484795-48b5-48ac-a078-7cba80ab23ef)
 
-# 📚 Aplikasi Buku Pintar
+## 📚 Aplikasi Buku Pintar
 
-Ini adalah dokumentasi singkat tentang alur tampilan (UI Flow) aplikasi ini. Let's go!
+Ini adalah dokumentasi singkat tentang alur tampilan (UI Flow) aplikasi ini. 
 
 ---
 
 ## 🖼️ Tampilan 1: Splash Screen
 - Menampilkan **logo aplikasi**.
 - Otomatis **redirect** ke tampilan login dalam **1–2 detik**.
-- Cuma lewat doang, kayak mantan.
 
 ---
 
 ## 🔐 Tampilan 2: Login
 - User **wajib login** dulu.
-- Kalau **belum punya akun**, cus ke **Tampilan 3 (Register)** lewat tombol yang disediakan.
-- Tanpa akun, ya mana bisa masuk bos.
+- Kalau **belum punya akun**, lanjut ke **Tampilan 3 (Register)** lewat tombol yang disediakan.
+- Tanpa akun, tidak akan bisa masuk
 
 ---
 
@@ -65,7 +64,6 @@ Ini adalah dokumentasi singkat tentang alur tampilan (UI Flow) aplikasi ini. Let
   - Ganti **foto profil**.
   - Edit **nama pengguna**.
   - Update **email**.
-- Jangan typo ya, malu-maluin.
 
 ---
 
@@ -75,15 +73,17 @@ Ini adalah dokumentasi singkat tentang alur tampilan (UI Flow) aplikasi ini. Let
 
 ---
 
-## 🚀 Notes
-- Semuanya udah disetting biar flow-nya **cepet, mulus, dan simple**.
-- Fokus: **baca buku** + **atur akun** = hidup makin pinter 🔥.
+## 📂 Dokumentasi Tambahan
+Kalau masih ada yang kurang jelas atau mau ngeliat lebih detail, **cek file PDF**:
+
+> **Story Board MyBook.pdf**
+[Story Board MyBook.pdf](https://github.com/user-attachments/files/19923068/Story.Board.MyBook.pdf)
+Di situ semua dijelasin lebih lengkap dan visual. 📑✨
 
 ---
 
 
-Jika Kurang Jelas Ada di File Pdf
-[Story Board MyBook.pdf](https://github.com/user-attachments/files/19923068/Story.Board.MyBook.pdf)
+
 
 # Mockup
 
