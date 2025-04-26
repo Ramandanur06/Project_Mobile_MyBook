@@ -77,7 +77,7 @@ Ini adalah dokumentasi singkat tentang alur tampilan (UI Flow) aplikasi ini.
 Kalau masih ada yang kurang jelas atau mau ngeliat lebih detail, **cek file PDF**:
 
 > **[Story Board MyBook.pdf](https://github.com/user-attachments/files/19923068/Story.Board.MyBook.pdf)**
-Di situ semua dijelasin lebih lengkap dan visual. 📑✨
+Di situ ada gambar yang lebih jelas kalau gambar yang di sini terdapat blur 📑✨
 
 ---
 
